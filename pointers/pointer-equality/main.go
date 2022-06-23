@@ -9,7 +9,5 @@ func main() {
 
 	if p1 == p2 {
 		fmt.Println("Both pointers p1 and p2 point to the same variable.")
-
 	}
-
 }
